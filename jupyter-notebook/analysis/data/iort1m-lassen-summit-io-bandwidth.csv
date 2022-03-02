@@ -1,0 +1,41 @@
+app,transfer_size,io_subsystem,scaling,num_proc,io_bandwidth
+ior-t1m,1m,lassen gpfs,strong-scaling,64,7325218972.435591
+ior-t1m,1m,lassen gpfs,strong-scaling,128,7351122339.627144
+ior-t1m,1m,lassen gpfs,strong-scaling,256,8213830058.765799
+ior-t1m,1m,lassen gpfs,strong-scaling,512,7844385980.305476
+ior-t1m,1m,lassen gpfs,strong-scaling,1024,9037236247.79306
+ior-t1m,1m,lassen gpfs,weak-scaling,64,8704925151.39505
+ior-t1m,1m,lassen gpfs,weak-scaling,128,8794349315.586037
+ior-t1m,1m,lassen gpfs,weak-scaling,256,8496040943.833496
+ior-t1m,1m,lassen gpfs,weak-scaling,512,7823455350.550562
+ior-t1m,1m,lassen gpfs,weak-scaling,1024,7750683436.981723
+ior-t1m,1m,lassen node-local bb,strong-scaling,64,6587427317.919432
+ior-t1m,1m,lassen node-local bb,strong-scaling,128,6780158339.213461
+ior-t1m,1m,lassen node-local bb,strong-scaling,256,7377046149.134029
+ior-t1m,1m,lassen node-local bb,strong-scaling,512,7556699406.184238
+ior-t1m,1m,lassen node-local bb,strong-scaling,1024,9109699157.271923
+ior-t1m,1m,lassen node-local bb,weak-scaling,64,7114549183.045504
+ior-t1m,1m,lassen node-local bb,weak-scaling,128,7022568117.88563
+ior-t1m,1m,lassen node-local bb,weak-scaling,256,7064791487.799364
+ior-t1m,1m,lassen node-local bb,weak-scaling,512,6963273334.059462
+ior-t1m,1m,lassen node-local bb,weak-scaling,1024,7069199076.05043
+ior-t1m,1m,summit gpfs,strong-scaling,64,6649797645.996691
+ior-t1m,1m,summit gpfs,strong-scaling,128,7845048568.043223
+ior-t1m,1m,summit gpfs,strong-scaling,256,8041669996.31122
+ior-t1m,1m,summit gpfs,strong-scaling,512,8920187964.144218
+ior-t1m,1m,summit gpfs,strong-scaling,1024,9671678875.596436
+ior-t1m,1m,summit gpfs,weak-scaling,64,6822424681.896598
+ior-t1m,1m,summit gpfs,weak-scaling,128,7065730494.655691
+ior-t1m,1m,summit gpfs,weak-scaling,256,7935849458.807214
+ior-t1m,1m,summit gpfs,weak-scaling,512,7842382393.659913
+ior-t1m,1m,summit gpfs,weak-scaling,1024,7664016701.163284
+ior-t1m,1m,summit node-local bb,strong-scaling,64,5559481419.6493435
+ior-t1m,1m,summit node-local bb,strong-scaling,128,7841165434.320861
+ior-t1m,1m,summit node-local bb,strong-scaling,256,8771444700.723473
+ior-t1m,1m,summit node-local bb,strong-scaling,512,9246471376.316078
+ior-t1m,1m,summit node-local bb,strong-scaling,1024,10500423785.490688
+ior-t1m,1m,summit node-local bb,weak-scaling,64,8671400916.55407
+ior-t1m,1m,summit node-local bb,weak-scaling,128,8893275178.735222
+ior-t1m,1m,summit node-local bb,weak-scaling,256,8555310663.752592
+ior-t1m,1m,summit node-local bb,weak-scaling,512,8878107026.115856
+ior-t1m,1m,summit node-local bb,weak-scaling,1024,8613060375.463413

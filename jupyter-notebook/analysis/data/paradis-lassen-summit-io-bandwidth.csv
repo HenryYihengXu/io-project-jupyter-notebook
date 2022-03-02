@@ -1,0 +1,21 @@
+app,transfer_size,io_subsystem,scaling,num_proc,io_bandwidth
+paradis,<1k,lassen gpfs,weak-scaling,64,1326774.3804595214
+paradis,<1k,lassen gpfs,weak-scaling,128,1331108.394358596
+paradis,<1k,lassen gpfs,weak-scaling,256,1303852.2973431034
+paradis,<1k,lassen gpfs,weak-scaling,512,1523375.0944130707
+paradis,<1k,lassen gpfs,weak-scaling,1024,1433624.9021295349
+paradis,<1k,lassen node-local bb,weak-scaling,64,1380309.4195555567
+paradis,<1k,lassen node-local bb,weak-scaling,128,1292618.230456857
+paradis,<1k,lassen node-local bb,weak-scaling,256,1303246.779317983
+paradis,<1k,lassen node-local bb,weak-scaling,512,1667292.4453932417
+paradis,<1k,lassen node-local bb,weak-scaling,1024,1597040.323153286
+paradis,<1k,summit gpfs,weak-scaling,64,2203551.3976593562
+paradis,<1k,summit gpfs,weak-scaling,128,3484958.103032308
+paradis,<1k,summit gpfs,weak-scaling,256,4009009.121170551
+paradis,<1k,summit gpfs,weak-scaling,512,4668511.118000843
+paradis,<1k,summit gpfs,weak-scaling,1024,4754786.723207393
+paradis,<1k,summit node-local bb,weak-scaling,64,2269865.10885547
+paradis,<1k,summit node-local bb,weak-scaling,128,3477061.0396914934
+paradis,<1k,summit node-local bb,weak-scaling,256,4021834.8351861676
+paradis,<1k,summit node-local bb,weak-scaling,512,4720821.657932681
+paradis,<1k,summit node-local bb,weak-scaling,1024,4755354.631909338

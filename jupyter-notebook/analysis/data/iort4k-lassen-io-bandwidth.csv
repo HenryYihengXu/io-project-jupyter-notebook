@@ -1,0 +1,21 @@
+app,transfer_size,io_subsystem,scaling,num_proc,io_bandwidth
+ior-t4k,4k,lassen gpfs,strong-scaling,64,392002011.2180024
+ior-t4k,4k,lassen gpfs,strong-scaling,128,422017926.1579229
+ior-t4k,4k,lassen gpfs,strong-scaling,256,470596844.71813244
+ior-t4k,4k,lassen gpfs,strong-scaling,512,465712259.2488039
+ior-t4k,4k,lassen gpfs,strong-scaling,1024,441329007.0396805
+ior-t4k,4k,lassen gpfs,weak-scaling,64,498702716.7537317
+ior-t4k,4k,lassen gpfs,weak-scaling,128,435102706.1499073
+ior-t4k,4k,lassen gpfs,weak-scaling,256,461887807.89774483
+ior-t4k,4k,lassen gpfs,weak-scaling,512,451368019.2333591
+ior-t4k,4k,lassen gpfs,weak-scaling,1024,450242610.9938548
+ior-t4k,4k,lassen node-local bb,strong-scaling,64,1086985058.7564967
+ior-t4k,4k,lassen node-local bb,strong-scaling,128,1064797930.5866604
+ior-t4k,4k,lassen node-local bb,strong-scaling,256,1076531539.6863325
+ior-t4k,4k,lassen node-local bb,strong-scaling,512,1097255283.922939
+ior-t4k,4k,lassen node-local bb,strong-scaling,1024,1098572284.9007697
+ior-t4k,4k,lassen node-local bb,weak-scaling,64,1078911681.8700566
+ior-t4k,4k,lassen node-local bb,weak-scaling,128,1070673354.611596
+ior-t4k,4k,lassen node-local bb,weak-scaling,256,1083938981.5573406
+ior-t4k,4k,lassen node-local bb,weak-scaling,512,1076020321.7738068
+ior-t4k,4k,lassen node-local bb,weak-scaling,1024,1079984158.6612663

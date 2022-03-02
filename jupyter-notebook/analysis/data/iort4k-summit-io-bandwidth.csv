@@ -1,0 +1,21 @@
+app,transfer_size,io_subsystem,scaling,num_proc,io_bandwidth
+ior-t4k,4k,summit gpfs,strong-scaling,64,337244085.0289051
+ior-t4k,4k,summit gpfs,strong-scaling,128,338798313.10162604
+ior-t4k,4k,summit gpfs,strong-scaling,256,385118229.85260206
+ior-t4k,4k,summit gpfs,strong-scaling,512,399157227.89767396
+ior-t4k,4k,summit gpfs,strong-scaling,1024,399965812.2720112
+ior-t4k,4k,summit gpfs,weak-scaling,64,398686703.1102589
+ior-t4k,4k,summit gpfs,weak-scaling,128,390100239.517976
+ior-t4k,4k,summit gpfs,weak-scaling,256,384939495.8324294
+ior-t4k,4k,summit gpfs,weak-scaling,512,381122803.0540814
+ior-t4k,4k,summit gpfs,weak-scaling,1024,375590479.03122336
+ior-t4k,4k,summit node-local bb,strong-scaling,64,2381915211.059692
+ior-t4k,4k,summit node-local bb,strong-scaling,128,2388472858.3730702
+ior-t4k,4k,summit node-local bb,strong-scaling,256,2374170836.582935
+ior-t4k,4k,summit node-local bb,strong-scaling,512,2370295002.7149363
+ior-t4k,4k,summit node-local bb,strong-scaling,1024,2417181066.5096364
+ior-t4k,4k,summit node-local bb,weak-scaling,64,1744949030.3195949
+ior-t4k,4k,summit node-local bb,weak-scaling,128,2046518962.870566
+ior-t4k,4k,summit node-local bb,weak-scaling,256,2374181937.2241516
+ior-t4k,4k,summit node-local bb,weak-scaling,512,2384737507.3686395
+ior-t4k,4k,summit node-local bb,weak-scaling,1024,2378739490.87968

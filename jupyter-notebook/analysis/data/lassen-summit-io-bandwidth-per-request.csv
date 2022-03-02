@@ -1,0 +1,141 @@
+app,transfer_size,io_subsystem,scaling,num_proc,io_bandwidth
+paradis,<1k,lassen gpfs,weak-scaling,64,1326774.3804595214
+paradis,<1k,lassen gpfs,weak-scaling,128,1331108.394358596
+paradis,<1k,lassen gpfs,weak-scaling,256,1303852.2973431034
+paradis,<1k,lassen gpfs,weak-scaling,512,1523375.0944130707
+paradis,<1k,lassen gpfs,weak-scaling,1024,1433624.9021295349
+paradis,<1k,lassen node-local bb,weak-scaling,64,1380309.4195555567
+paradis,<1k,lassen node-local bb,weak-scaling,128,1292618.230456857
+paradis,<1k,lassen node-local bb,weak-scaling,256,1303246.779317983
+paradis,<1k,lassen node-local bb,weak-scaling,512,1667292.4453932417
+paradis,<1k,lassen node-local bb,weak-scaling,1024,1597040.323153286
+paradis,<1k,summit gpfs,weak-scaling,64,2203551.397659356
+paradis,<1k,summit gpfs,weak-scaling,128,3484958.103032308
+paradis,<1k,summit gpfs,weak-scaling,256,4009009.121170551
+paradis,<1k,summit gpfs,weak-scaling,512,4668511.118000843
+paradis,<1k,summit gpfs,weak-scaling,1024,4754786.723207393
+paradis,<1k,summit node-local bb,weak-scaling,64,2269865.10885547
+paradis,<1k,summit node-local bb,weak-scaling,128,3477061.0396914934
+paradis,<1k,summit node-local bb,weak-scaling,256,4021834.835186168
+paradis,<1k,summit node-local bb,weak-scaling,512,4720821.657932681
+paradis,<1k,summit node-local bb,weak-scaling,1024,4755354.631909338
+ior-t4k,4k,lassen gpfs,strong-scaling,64,392002011.2180024
+ior-t4k,4k,lassen gpfs,strong-scaling,128,422017926.1579229
+ior-t4k,4k,lassen gpfs,strong-scaling,256,470596844.7181325
+ior-t4k,4k,lassen gpfs,strong-scaling,512,465712259.2488039
+ior-t4k,4k,lassen gpfs,strong-scaling,1024,441329007.0396805
+ior-t4k,4k,lassen gpfs,weak-scaling,64,498702716.7537317
+ior-t4k,4k,lassen gpfs,weak-scaling,128,435102706.1499073
+ior-t4k,4k,lassen gpfs,weak-scaling,256,461887807.8977448
+ior-t4k,4k,lassen gpfs,weak-scaling,512,451368019.2333591
+ior-t4k,4k,lassen gpfs,weak-scaling,1024,450242610.9938548
+ior-t4k,4k,lassen node-local bb,strong-scaling,64,1086985058.756497
+ior-t4k,4k,lassen node-local bb,strong-scaling,128,1064797930.5866604
+ior-t4k,4k,lassen node-local bb,strong-scaling,256,1076531539.6863325
+ior-t4k,4k,lassen node-local bb,strong-scaling,512,1097255283.922939
+ior-t4k,4k,lassen node-local bb,strong-scaling,1024,1098572284.9007697
+ior-t4k,4k,lassen node-local bb,weak-scaling,64,1078911681.8700566
+ior-t4k,4k,lassen node-local bb,weak-scaling,128,1070673354.611596
+ior-t4k,4k,lassen node-local bb,weak-scaling,256,1083938981.5573406
+ior-t4k,4k,lassen node-local bb,weak-scaling,512,1076020321.7738068
+ior-t4k,4k,lassen node-local bb,weak-scaling,1024,1079984158.6612663
+ior-t4k,4k,summit gpfs,strong-scaling,64,337244085.0289051
+ior-t4k,4k,summit gpfs,strong-scaling,128,338798313.10162604
+ior-t4k,4k,summit gpfs,strong-scaling,256,385118229.85260206
+ior-t4k,4k,summit gpfs,strong-scaling,512,399157227.897674
+ior-t4k,4k,summit gpfs,strong-scaling,1024,399965812.2720112
+ior-t4k,4k,summit gpfs,weak-scaling,64,398686703.1102589
+ior-t4k,4k,summit gpfs,weak-scaling,128,390100239.517976
+ior-t4k,4k,summit gpfs,weak-scaling,256,384939495.8324294
+ior-t4k,4k,summit gpfs,weak-scaling,512,381122803.0540814
+ior-t4k,4k,summit gpfs,weak-scaling,1024,375590479.03122336
+ior-t4k,4k,summit node-local bb,strong-scaling,64,2381915211.059692
+ior-t4k,4k,summit node-local bb,strong-scaling,128,2388472858.3730702
+ior-t4k,4k,summit node-local bb,strong-scaling,256,2374170836.582935
+ior-t4k,4k,summit node-local bb,strong-scaling,512,2370295002.7149363
+ior-t4k,4k,summit node-local bb,strong-scaling,1024,2417181066.5096364
+ior-t4k,4k,summit node-local bb,weak-scaling,64,1744949030.3195949
+ior-t4k,4k,summit node-local bb,weak-scaling,128,2046518962.870566
+ior-t4k,4k,summit node-local bb,weak-scaling,256,2374181937.224152
+ior-t4k,4k,summit node-local bb,weak-scaling,512,2384737507.3686395
+ior-t4k,4k,summit node-local bb,weak-scaling,1024,2378739490.87968
+ior-t64k,64k,lassen gpfs,strong-scaling,64,4710005808.462013
+ior-t64k,64k,lassen gpfs,strong-scaling,128,4681066496.527125
+ior-t64k,64k,lassen gpfs,strong-scaling,256,4792340554.201812
+ior-t64k,64k,lassen gpfs,strong-scaling,512,5256855321.739269
+ior-t64k,64k,lassen gpfs,strong-scaling,1024,5075053027.704302
+ior-t64k,64k,lassen gpfs,weak-scaling,64,5332502630.208618
+ior-t64k,64k,lassen gpfs,weak-scaling,128,5269615674.542698
+ior-t64k,64k,lassen gpfs,weak-scaling,256,4923858915.481371
+ior-t64k,64k,lassen gpfs,weak-scaling,512,4813082978.160299
+ior-t64k,64k,lassen gpfs,weak-scaling,1024,4534724007.495744
+ior-t64k,64k,lassen node-local bb,strong-scaling,64,6918272625.800427
+ior-t64k,64k,lassen node-local bb,strong-scaling,128,6973578426.493469
+ior-t64k,64k,lassen node-local bb,strong-scaling,256,6665801615.331981
+ior-t64k,64k,lassen node-local bb,strong-scaling,512,7625831211.45601
+ior-t64k,64k,lassen node-local bb,strong-scaling,1024,8059068520.9413
+ior-t64k,64k,lassen node-local bb,weak-scaling,64,6759487349.77594
+ior-t64k,64k,lassen node-local bb,weak-scaling,128,6593611752.192802
+ior-t64k,64k,lassen node-local bb,weak-scaling,256,6789750051.317367
+ior-t64k,64k,lassen node-local bb,weak-scaling,512,6816012486.83832
+ior-t64k,64k,lassen node-local bb,weak-scaling,1024,6836963023.192155
+ior-t64k,64k,summit gpfs,strong-scaling,64,3905392063.416074
+ior-t64k,64k,summit gpfs,strong-scaling,128,4431332802.947284
+ior-t64k,64k,summit gpfs,strong-scaling,256,4467492964.381057
+ior-t64k,64k,summit gpfs,strong-scaling,512,4608663789.822263
+ior-t64k,64k,summit gpfs,strong-scaling,1024,5004896411.915873
+ior-t64k,64k,summit gpfs,weak-scaling,64,4200867956.961832
+ior-t64k,64k,summit gpfs,weak-scaling,128,4391253228.260689
+ior-t64k,64k,summit gpfs,weak-scaling,256,4332857461.919057
+ior-t64k,64k,summit gpfs,weak-scaling,512,3787479636.692116
+ior-t64k,64k,summit gpfs,weak-scaling,1024,4248355989.52717
+ior-t64k,64k,summit node-local bb,strong-scaling,64,8424480946.660795
+ior-t64k,64k,summit node-local bb,strong-scaling,128,8706041415.51059
+ior-t64k,64k,summit node-local bb,strong-scaling,256,8801371105.66473
+ior-t64k,64k,summit node-local bb,strong-scaling,512,10577057706.763908
+ior-t64k,64k,summit node-local bb,strong-scaling,1024,11487617084.308792
+ior-t64k,64k,summit node-local bb,weak-scaling,64,8802415126.821426
+ior-t64k,64k,summit node-local bb,weak-scaling,128,9087126340.148912
+ior-t64k,64k,summit node-local bb,weak-scaling,256,8872304290.94643
+ior-t64k,64k,summit node-local bb,weak-scaling,512,9060118925.321417
+ior-t64k,64k,summit node-local bb,weak-scaling,1024,9098032424.612318
+ior-t1m,1m,lassen gpfs,strong-scaling,64,7325218972.435591
+ior-t1m,1m,lassen gpfs,strong-scaling,128,7351122339.627144
+ior-t1m,1m,lassen gpfs,strong-scaling,256,8213830058.765799
+ior-t1m,1m,lassen gpfs,strong-scaling,512,7844385980.305476
+ior-t1m,1m,lassen gpfs,strong-scaling,1024,9037236247.79306
+ior-t1m,1m,lassen gpfs,weak-scaling,64,8704925151.39505
+ior-t1m,1m,lassen gpfs,weak-scaling,128,8794349315.586037
+ior-t1m,1m,lassen gpfs,weak-scaling,256,8496040943.833496
+ior-t1m,1m,lassen gpfs,weak-scaling,512,7823455350.550562
+ior-t1m,1m,lassen gpfs,weak-scaling,1024,7750683436.981723
+ior-t1m,1m,lassen node-local bb,strong-scaling,64,6587427317.919432
+ior-t1m,1m,lassen node-local bb,strong-scaling,128,6780158339.213461
+ior-t1m,1m,lassen node-local bb,strong-scaling,256,7377046149.134029
+ior-t1m,1m,lassen node-local bb,strong-scaling,512,7556699406.184238
+ior-t1m,1m,lassen node-local bb,strong-scaling,1024,9109699157.271923
+ior-t1m,1m,lassen node-local bb,weak-scaling,64,7114549183.045504
+ior-t1m,1m,lassen node-local bb,weak-scaling,128,7022568117.88563
+ior-t1m,1m,lassen node-local bb,weak-scaling,256,7064791487.799364
+ior-t1m,1m,lassen node-local bb,weak-scaling,512,6963273334.059462
+ior-t1m,1m,lassen node-local bb,weak-scaling,1024,7069199076.05043
+ior-t1m,1m,summit gpfs,strong-scaling,64,6649797645.996691
+ior-t1m,1m,summit gpfs,strong-scaling,128,7845048568.043223
+ior-t1m,1m,summit gpfs,strong-scaling,256,8041669996.31122
+ior-t1m,1m,summit gpfs,strong-scaling,512,8920187964.144218
+ior-t1m,1m,summit gpfs,strong-scaling,1024,9671678875.596436
+ior-t1m,1m,summit gpfs,weak-scaling,64,6822424681.896598
+ior-t1m,1m,summit gpfs,weak-scaling,128,7065730494.655691
+ior-t1m,1m,summit gpfs,weak-scaling,256,7935849458.807214
+ior-t1m,1m,summit gpfs,weak-scaling,512,7842382393.659913
+ior-t1m,1m,summit gpfs,weak-scaling,1024,7664016701.163284
+ior-t1m,1m,summit node-local bb,strong-scaling,64,5559481419.649344
+ior-t1m,1m,summit node-local bb,strong-scaling,128,7841165434.320861
+ior-t1m,1m,summit node-local bb,strong-scaling,256,8771444700.723473
+ior-t1m,1m,summit node-local bb,strong-scaling,512,9246471376.316078
+ior-t1m,1m,summit node-local bb,strong-scaling,1024,10500423785.490688
+ior-t1m,1m,summit node-local bb,weak-scaling,64,8671400916.55407
+ior-t1m,1m,summit node-local bb,weak-scaling,128,8893275178.735222
+ior-t1m,1m,summit node-local bb,weak-scaling,256,8555310663.752592
+ior-t1m,1m,summit node-local bb,weak-scaling,512,8878107026.115856
+ior-t1m,1m,summit node-local bb,weak-scaling,1024,8613060375.463413

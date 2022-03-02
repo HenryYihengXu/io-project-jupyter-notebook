@@ -1,0 +1,16 @@
+app,machine,scaling,num_proc,io_volume,io_intensity
+paradis,cori regular,weak-scaling,64,30.54379592,0.00999356
+paradis,cori regular,weak-scaling,128,31.17403794,0.010496951
+paradis,cori regular,weak-scaling,256,31.65504796,0.034700895
+paradis,cori regular,weak-scaling,512,31.73928965,0.020233471
+paradis,cori regular,weak-scaling,1024,31.82511679,0.045339438
+paradis,lassen regular,weak-scaling,64,31.47762238,0.008811726
+paradis,lassen regular,weak-scaling,128,33.68822023,0.006930783
+paradis,lassen regular,weak-scaling,256,33.55577689,0.007414321
+paradis,lassen regular,weak-scaling,512,36.98125976,0.009142207
+paradis,lassen regular,weak-scaling,1024,36.38686642,0.015321892
+paradis,summit regular,weak-scaling,64,24.21082986,0.002961166
+paradis,summit regular,weak-scaling,128,17.46119218,0.003102089
+paradis,summit regular,weak-scaling,256,14.51080878,0.004236093
+paradis,summit regular,weak-scaling,512,10.23239324,0.006042035
+paradis,summit regular,weak-scaling,1024,9.445660152,0.007677401
